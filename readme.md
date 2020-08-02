@@ -17,3 +17,9 @@
 ./phtunnel --appid 12*** --appkey *** -l /home/pi/data/PHTunnel.log
 
 手机下载app，在第一个应用里扫描即可
+
+
+
+phtnnel文件下载链接 花生壳开发模式的下载页面，树莓派有64/32位（ubuntu-mate64也用这里的），arm版、mips均有单独的执行文件（免安装）
+
+- 本github放的文件是树莓派里的64位，适用于树莓派安装的ubuntu-mate(64)系统

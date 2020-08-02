@@ -6,8 +6,8 @@ import time
 time.sleep(3)
 
 log_file = "/home/pi/data/PHTunnel.log"
-url="http://api.heclouds.com/devices/xxxx/datapoints"
-headers={'api-key':'gjUxxxxsvxxxxxxxx='}
+url="http://api.heclouds.com/devices/615063838/datapoints"
+headers={'api-key':'gjU2173SbsvrSi4OpLyK8IXW3tc='}
 
 pic_url = ""
 with open(log_file, 'r') as f:
